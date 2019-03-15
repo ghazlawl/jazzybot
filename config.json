@@ -1,0 +1,21 @@
+{
+  "servers": [
+    {
+      "name": "[Ghazlawl] SE Semi-Hardcore",
+      "address": "199.15.249.26",
+      "port": "8530",
+      "webhook": "509147390083727368\/iZ26Y8gM5gE6DRWGhNQIICDZ_-FCTYHQIpQPz7CCt-eZY3e6-dWi4Ga4ITx6djnKQjPd",
+      "avatar": "https:\/\/linode.ghazlawl.com\/ark\/mods\/auctionhouse\/images\/auction-bot-avatar.png",
+      "message_sent": "0"
+    },
+    {
+      "name": "ShamJazz Ragnarok Server",
+      "address": "172.96.165.66",
+      "port": "28448",
+      "webhook": "509513161565798402\/8hHvDnx8q1QbuX9azEnSuWqbW1K7tO1EwNoMAHYzK_SEcWkYr_2AtiHDAbMa_t9unFYl",
+      "avatar": "https:\/\/serversftw.com\/wp-content\/uploads\/2017\/07\/ark-survival-evolved-logo.png",
+      "message_sent": "0",
+      "role": "@&301280897695481856"
+    }
+  ]
+}
